@@ -62,12 +62,27 @@ Retail supermarkets face a critical challenge: while discounts attract customers
 * **Strategic Positioning:** Data-driven pricing vs. blanket discounting
 
 ## Visualizations
+<img width="1189" height="767" alt="image" src="https://github.com/user-attachments/assets/17982f37-7f20-4161-aeb8-7b6bbb4ce897" />
+
+<img width="1404" height="792" alt="image" src="https://github.com/user-attachments/assets/7df8f976-402b-4134-86b6-839513b88fc9" />
+
+<img width="795" height="769" alt="image" src="https://github.com/user-attachments/assets/5a89248d-9419-492e-b535-da07002eef1f" />
+
+<img width="568" height="770" alt="image" src="https://github.com/user-attachments/assets/c876d8f7-b4c8-45ac-8120-45c7b7aae205" />
+
+<img width="1413" height="772" alt="image" src="https://github.com/user-attachments/assets/164a2d50-6578-4ac6-81a2-f41e071a2004" />
+
+
+<img width="1394" height="785" alt="image" src="https://github.com/user-attachments/assets/0f0ee104-6a45-479c-a0a3-4b3908fa9565" />
+
 
 ## Presentation
-View Project Presentation Video
+[Discount Optimization Strategy Presentation.pdf](https://github.com/user-attachments/files/23569499/Data.Analyst.Presentation.for.Course.pdf)
+
+[View Project Presentation Video](https://oulu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d2cffd41-692b-4e1e-8d0f-b38201080812)
 
 ## Acknowledgments
-Dataset: Roopa Calistus (Kaggle)
+Dataset: [Roopa Calistus (Kaggle)](https://www.kaggle.com/roopacalistus)
 
 
 
