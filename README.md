@@ -62,7 +62,7 @@ Retail supermarkets face a critical challenge: while discounts attract customers
 * **Strategic Positioning:** Data-driven pricing vs. blanket discounting
 
 ## Visualizations
-<img width="1189" height="767" alt="image" src="https://github.com/user-attachments/assets/17982f37-7f20-4161-aeb8-7b6bbb4ce897" />
+<img width="1222" height="685" alt="image" src="https://github.com/user-attachments/assets/37decca6-6f37-4d20-8d5f-5f5e13d134e9" />
 
 <img width="1404" height="792" alt="image" src="https://github.com/user-attachments/assets/7df8f976-402b-4134-86b6-839513b88fc9" />
 
